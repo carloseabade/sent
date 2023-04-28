@@ -13,6 +13,7 @@ worry about alignment. Instead you can really concentrate on the content.
 As this is my own build, I've added some patches to it.
 
 - [inverted-colors](https://tools.suckless.org/sent/patches/inverted-colors/)
+- [progress-bar](https://tools.suckless.org/sent/patches/progress-bar/)
 
 ## Dependencies
 

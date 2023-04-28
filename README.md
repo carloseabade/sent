@@ -8,6 +8,12 @@ The presentation is displayed in a simple X11 window. The content of each slide
 is automatically scaled to fit the window and centered so you also don't have to
 worry about alignment. Instead you can really concentrate on the content.
 
+## Patches
+
+As this is my own build, I've added some patches to it.
+
+- [inverted-colors](https://tools.suckless.org/sent/patches/inverted-colors/)
+
 ## Dependencies
 
 You need Xlib and Xft to build sent and the farbfeld[0] tools installed to use
